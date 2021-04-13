@@ -2,7 +2,7 @@
 
 ## Running on local -
 
-`pip3 install requirements.txt`
+`pip3 install requirements.txt` <br>
 `python3 app.py`
 
 ## Directing opening the deployed server:
