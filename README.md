@@ -28,7 +28,7 @@ This docker image is then pulled to an AWS EC2 instance where it is run behind a
 
 # System Design:
 
-<img src="./QRSCanner.png">
+<img src="./QRScanner.png">
 
 ## Scaling:
 
