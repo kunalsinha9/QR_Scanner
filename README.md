@@ -26,7 +26,9 @@
 The flask application in dockerized and then the docker image is pushed to AWS Elastic Container Registry. 
 This docker image is then pulled to an AWS EC2 instance where it is run behind a Nginx reverse-proxy server. 
 
-# System Design:
+<img src="./Currennt-Design.png">
+
+# System Design for over 1 Million Requests per day:
 
 <img src="./QRScanner.png">
 
